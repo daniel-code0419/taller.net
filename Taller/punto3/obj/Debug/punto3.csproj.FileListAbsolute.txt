@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto3\obj\Debug\punto3.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto3\bin\Debug\punto3.exe.config
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto3\bin\Debug\punto3.exe
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto3\bin\Debug\punto3.pdb
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto3\obj\Debug\punto3.exe
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto3\obj\Debug\punto3.pdb

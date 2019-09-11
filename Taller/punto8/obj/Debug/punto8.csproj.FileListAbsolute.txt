@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto8\obj\Debug\punto8.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto8\bin\Debug\punto8.exe.config
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto8\bin\Debug\punto8.exe
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto8\bin\Debug\punto8.pdb
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto8\obj\Debug\punto8.exe
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto8\obj\Debug\punto8.pdb

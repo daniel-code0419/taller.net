@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto2\bin\Debug\punto2.exe.config
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto2\bin\Debug\punto2.exe
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto2\bin\Debug\punto2.pdb
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto2\obj\Debug\punto2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto2\obj\Debug\punto2.exe
+C:\Users\Daniel\Desktop\Taller.net\Taller\punto2\obj\Debug\punto2.pdb
